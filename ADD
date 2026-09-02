@@ -1,0 +1,8 @@
+public class Main {
+  public static void main(String[] args) {
+    int itemPrice=100;
+int shippingCost=90;
+int sum =itemPrice+shippingCost;
+System.out.println(sum);
+    }
+  }
